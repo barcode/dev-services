@@ -18,7 +18,7 @@ This project has a lot of different CI services configured:
 | [AppVeyor](https://ci.appveyor.com) |||
 | [bitrise](https://bitrise.io/) | |focused on mobile dev, [platforms](https://github.com/bitrise-io/bitrise.io/tree/master/system_reports)|
 | [Buddy](https://buddy.works/) | ["300 sandbox GB-minutes"](https://buddy.works/pricing) ||
-| [Cirrus Ci](https://cirrus-ci.com/) | [seems unlimited... but i never tied it](https://cirrus-ci.org/faq/#are-there-any-limits) | [arm64](https://cirrus-ci.org/guide/supported-computing-services/#compute-engine) |
+| [Cirrus Ci](https://cirrus-ci.com/) | [no minute limit, only concurrency limit](https://cirrus-ci.org/faq/#are-there-any-limits) | [arm64](https://cirrus-ci.org/guide/supported-computing-services/#compute-engine) |
 | [CodeShip](https://app.codeship.com/) |||
 | [codefresh](https://codefresh.io) |||
 | [peakflow](https://www.peakflow.io/en) |||
