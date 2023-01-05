@@ -2,4 +2,5 @@ arm_container:
   image: gcc:latest
 
 check_task:
-  test_script: uname -a
+  uname: uname -a
+  cpuinfo: cat /proc/cpuinfo
